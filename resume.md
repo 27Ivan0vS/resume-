@@ -1,5 +1,5 @@
-# Иванов Сергей
-  __Цель:__ Получение должности JavaScript Developer
+# Ivanov Sergey
+  __Goal:__ To get a position of JavaScript Developer
 ***
 ## Skills
 * HTML 
